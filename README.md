@@ -13,7 +13,7 @@ Neste artigo os autores questionam os pontos que caracterizam a crise nos perió
 
 * acesso aberto justo é o acesso a possibilidades de publicação e acesso aos materiais sem toda dificuldade e licenças e taxas(página 200). 
 * infraestruturas de pesquisa é conglomerado físico de recursos com acesso pela internet de materiais e ferramentas para produção de pediódicos(página 194).
-* 
+* end-to-end support é a ideia de funcionamento de plataformas para adicionar valor aos dados fornecidos por terceiros(página 195).
 
 
 
